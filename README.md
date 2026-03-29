@@ -1,6 +1,6 @@
 # OLONA METIA WILLIAMS
 
-## 📞 CONTACT
+## CONTACT
 
 📍 20508 Mzuzu Street, Bloekombos, Kraaifontein, 7570  
 📞 062 770 0449 / 083 418 8608  
@@ -31,7 +31,7 @@ Currently Enrolled (Final Year)
 
 ---
 
-## 💻 TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 Python  
 Java & JavaScript  
@@ -90,12 +90,12 @@ Promoted products and helped maintain high levels of customer satisfaction.
 
 **Mr Sabelo Nobula**  
 Western Cape Government (Department of the Premier)  
-📧 Sabelo.Nobula@westerncape.gov.za  
-📞 0214679246/0728654848  
+Sabelo.Nobula@westerncape.gov.za  
+0214679246/0728654848  
 
 ---
 
 **Sesethu Mbodlana**  
 SAB brewery Newlands  
-📧 sesethumbodlana431@gmail.com  
-📞 0623429048  
+sesethumbodlana431@gmail.com  
+0623429048  
